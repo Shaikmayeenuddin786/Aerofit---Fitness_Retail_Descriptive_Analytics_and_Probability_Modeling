@@ -2,17 +2,19 @@
 ---
 
 ## **Quick Section Summary**
-- **Business Problem** - What challenge Aerofit faced
-- **Objectives** - What the analysis aimed to achieve
-- **Technical Stack** - Tools and technologies used
-- **Project Features** - What actually built/analyzed
-- **Repository Structure** - How the project is organized
-- **Top Business Insights & Recommendations** - Actionable business outcomes
+| **Section** | **Details** |
+| :--- | :--- |
+| **Business Problem** | Aerofit didn't know which customer buys which treadmill. They had no framework to match new customers to the right model, so marketing was inefficient and upsell opportunities were missed. |
+| **Objectives** | 1. Identify customer segments for each treadmill model (KP281, KP481, KP781)<br>2. Build customer profiles using statistics<br>3. Create actionable marketing recommendations<br>4. Build a data-driven product positioning framework |
+| **Technical Stack** | **Analysis:** Python (Pandas, NumPy)<br>**Visualization:** Matplotlib, Seaborn<br>**Environment:** Jupyter Notebook<br>**Statistics:** SciPy |
+| **Project Features** | • Analyzed 180 customer records with 8 attributes<br>• Found outliers in age, income, miles, education, usage, fitness<br>• Built customer profiles for each product tier<br>• Calculated marginal and conditional probabilities<br>• Created contingency tables for product vs. attributes |
+| **Start-to-End Pipeline** | **Data Collection** → **Data Quality Checks** → **EDA (Univariate & Bivariate)** → **Outlier Detection** → **Probability Analysis** → **Customer Profiling** → **Business Recommendations** |
 
 ---
 
-## **Why This Project**
-This project demonstrates the ability to translate raw customer data into strategic business insights. Focuses on foundational descriptive analytics - a critical skill to solve real-world business problems in the retail/fitness industry.
+## **The Big Picture**
+This project shows how to turn basic customer data into clear business strategy. It uses simple statistics to understand who buys what, so marketing and sales teams can target the right people with the right products—a core skill for any data analyst.
+
 
 ## **Business Problem**
 *Strategic Market Segmentation & Product Positioning.*
