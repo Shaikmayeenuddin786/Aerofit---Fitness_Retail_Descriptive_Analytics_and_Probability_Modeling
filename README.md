@@ -238,8 +238,10 @@ Aerofit-Customer-Analysis/
 
 
 ---
-# 👤 Author
+# 👤 **Author**
 
 ### **Shaik Mayeenuddin**
-***Aspiring Data Scientist Professional | Supply Chain & Marketing Analytics Expert Pursuing a Master’s in Data Science (AI & ML) Student***
-🔗 https://www.linkedin.com/in/shaikmayeenuddin
+
+#### Business Analyst | Data Analytics & AI/ML | Optimizing Processes to Drive Revenue & Retention
+
+🔗https://www.linkedin.com/in/shaikmayeenuddin
