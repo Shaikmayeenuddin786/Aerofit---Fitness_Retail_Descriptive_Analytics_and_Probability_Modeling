@@ -1,5 +1,7 @@
-# **Fitness Equipment Manufacturer - Aerofit**
-### **Customer Segmentation & Probability Analysis | Top Business Insights & Recommendation**
+# **Fitness Equipment Manufacturer**
+### **Customer Segmentation & Probability Analysis | Top Business Insights & Recommendations**
+
+<img width="554" height="554" alt="image" src="https://github.com/user-attachments/assets/dc1055e2-cede-45e5-ba13-b27d514239fd" />
 
 ---
 
