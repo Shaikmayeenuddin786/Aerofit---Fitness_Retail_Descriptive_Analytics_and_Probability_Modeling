@@ -1,4 +1,5 @@
-# **Aerofit - Fitness Equipment Manufacturer** - Customer Segmentation, Probability & Product Strategy Analysis 
+# **Fitness Equipment Manufacturer - Aerofit**
+### **Customer Segmentation | Probability & Product Strategy Analysis**
 
 ---
 
