@@ -1,4 +1,5 @@
-# **Aerofit - Customer Segmentation,Product Strategy Analysis (Descriptive Analytics + Probability Modeling)**
+# **Aerofit - Fitness Equipment Manufacturer** - Customer Segmentation, Probability & Product Strategy Analysis 
+
 ---
 
 ## **Quick Section Summary**
