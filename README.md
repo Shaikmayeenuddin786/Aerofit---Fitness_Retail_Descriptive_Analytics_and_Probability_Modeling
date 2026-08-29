@@ -17,7 +17,7 @@
 ---
 
 ## **The Big Picture**
-This project shows how to turn basic customer data into clear business strategy. It uses simple statistics to understand who buys what, so marketing and sales teams can target the right people with the right products—a core skill for any data analyst.
+This project shows how to turn basic customer data into clear business strategy. It uses simple statistics to understand who buys what, so marketing and sales teams can target the right people with the right products.
 
 
 ## **Business Problem**
@@ -92,8 +92,8 @@ offered by the company, to provide a better recommendation of the treadmills to 
 ![STATISTICAL SUMMARY_NUMERICAL   CATEGORICAL COLUMNS](https://github.com/user-attachments/assets/f3238378-57ee-454e-8a9a-ae69aa4548ca)
 
 
-### **Visual Analytics & Customer Profiling**
-**UNIVARIATE ANALYSIS (CATEGORICAL & NUMERICAL VARIABLES):**
+## **Visual Analytics & Customer Profiling**
+### **UNIVARIATE ANALYSIS (CATEGORICAL & NUMERICAL VARIABLES):**
   
   ***CATEGORICAL***
   - KP281 is the most popular model at 44%, showing that entry-level treadmills have the market appeal.
@@ -107,9 +107,11 @@ offered by the company, to provide a better recommendation of the treadmills to 
   - Education : Most customers have approx 16 years of education 
 
 ![UNIVARIATE ANALYSIS - CATEGORICAL VARIABLES](https://github.com/user-attachments/assets/d1ba23d4-5641-493f-8a58-41a3cc78234d)
+
 ![UNIVARIATE ANALYSIS - NUMERICAL VARIABLES](https://github.com/user-attachments/assets/401d730a-32c4-4fd3-8232-f3c04c71b570)
 
-**BIVARIATE ANALYSIS:** 
+
+## **BIVARIATE ANALYSIS:** 
 
   - *Gender segmentation :* The top-left chart shows females prefer KP281, males dominate KP781, and KP481 has more balanced gender distribution. This is one of your strongest patterns.
   - *Income :* The middle-bottom chart clearly shows KP781 buyers have much higher incomes than other groups, with almost no overlap in income ranges between products.
@@ -133,9 +135,9 @@ offered by the company, to provide a better recommendation of the treadmills to 
 
 ### **Business Insights Generation**
 **Customer Profiles**: 
-  - KP281: Entry-level users, younger demographic, lower income, casual fitness enthusiasts
-  - KP481: Intermediate users, balanced gender distribution, moderate income, regular exercisers
-  - KP781: Advanced users, predominantly male, high income, serious fitness enthusiasts
+  - **KP281:** Entry-level users, younger demographic, lower income, casual fitness enthusiasts
+  - **KP481:** Intermediate users, balanced gender distribution, moderate income, regular exercisers
+  - **KP781:** Advanced users, predominantly male, high income, serious fitness enthusiasts
     
 ![CUSTOMER PROFILE FOR KP281](https://github.com/user-attachments/assets/76d2856e-12e9-4cb5-b161-74cd3659b868)
 ![CUSTOMER PROFILE FOR KP481](https://github.com/user-attachments/assets/40cb9106-5e11-4257-8746-257ac2272c72)
@@ -164,9 +166,9 @@ Aerofit-Customer-Analysis/
 ```
 
 
-# **Top Business Insights & Recommendations**
+# **Top Business Insights & Strategic Recommendations**
 
-## ** Top Insights**
+## **Top Key Insights**
 
 ### 1. Product Popularity:
 - KP281 is the most popular product (44% of sales), followed by KP481 (33%), and KP781 (23%). This shows a healthy distribution across price points.
@@ -177,9 +179,9 @@ Aerofit-Customer-Analysis/
 - KP481 has balanced gender distribution
 
 ### 3. Income:
-- KP781 buyers have highest average income ($74,000)
-- KP481 buyers have moderate income ($55,000)
-- KP281 buyers have lowest average income ($45,000)
+- KP781 buyers have highest average income ($75,442)
+- KP481 buyers have moderate income ($48,974)
+- KP281 buyers have lowest average income ($46,418)
 
 ### 4. Age Patterns:
 - KP781 buyers are slightly older (average 29 years)
@@ -205,27 +207,36 @@ Aerofit-Customer-Analysis/
 - A highly fit customer (level 4-5) has 68% probability of buying KP781
 
   
-# ** Top Recommendation**
+# **Top Strategic Recommendations**
 
 ### Targeted Marketing Campaigns:
-- KP781: Target males with high income, emphasize advanced features
-- KP481: Market to both genders, highlight value for money
-- KP281: Focus on mostly on females and beginners, stress ease of use
+- KP781(Target males, high income, advanced features)
+    - The data shows **82.5%** are male, they have the highest average income ($75,442), and they are "advanced users."
+- KP481 (Market to both genders, highlight value for money)
+    -  The gender split is nearly equal (51.7% male, 48.3% female) and they fit the middle-income
+- KP281 (Focus mostly on females and beginners, stress ease of use)
+    - While they are definitely "beginners" and "casual" users, the gender split is nearly perfect 50% Male and 50% Female. Marketing should target both genders equally, not mostly females.
 
 ### Product Placement: 
 - Place KP781 in high-end fitness stores
 - KP481 in general sports stores &
-- KP281 in department stores.
+- KP281 in department stores. It fits the budget-friendly demographic
 
-### Upselling Strategy: 
+### Upselling Strategy:
+- The data shoes Fitness progession KP281 (Fitness 3.0, 82 miles) \(\rightarrow \) KP481 (Fitness 2.9, 87 miles) \(\rightarrow \) KP781 (Fitness 4.6, 166 miles).
 - Create a loyalty program to move KP281 customers to KP481, and KP481 customers to KP781 as their fitness improves.
   
 ### Gender-Specific Features: 
+- Since the current buyer base for KP781 is heavily dominated by men (82.5%), designing features or marketing that appeals to high-income, advanced female athletes is a great growth opportunity.
 - Consider adding more features to appeal females in KP781
+  
 ### Financing: 
-- Offer financing options for KP781 to make it accessible to middle-income serious fitness enthusiasts.
+- The income range for KP781 starts at $48,556, which overlaps with the middle-income KP481 audience.
+- Offering financing options for KP781 would help those serious fitness buy the premium model.
+  
 ### Marital Status : 
-- Create family/friend referral programs, especially for KP281 and KP481 which are popular among partnered individuals.
+- Exactly 60% of buyers for both KP281 and KP481 are "Partnered"
+- Create family/friend referral programs for KP281 and KP481 which are popular among partnered individuals.
 
 
 ---
