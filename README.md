@@ -98,8 +98,8 @@ offered by the company, to provide a better recommendation of the treadmills to 
 
 ---
 
-## **Visual Analytics & Customer Profiling**
-### **UNIVARIATE ANALYSIS**
+# **Visual Analytics & Customer Profiling**
+## **UNIVARIATE ANALYSIS**
   
   **CATEGORICAL**
   - KP281 is the most popular model at 44%, showing that entry-level treadmills have the market appeal.
