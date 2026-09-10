@@ -101,12 +101,12 @@
 # **Visual Analytics & Customer Profiling**
 ## **UNIVARIATE ANALYSIS**
   
->   **CATEGORICAL**
+**CATEGORICAL**
 >   - KP281 is the most popular model at 44%, showing that entry-level treadmills have the market appeal.
 >   - More female customers (58%) than male (42%), suggesting Aerofit products appeal more to women overall.
 >   - Most customers are partnered (59% vs 41% single), indicating treadmills might be purchased more for family or shared household use.
 >   
->   **NUMERICAL**
+**NUMERICAL**
 >   - Age distribution: Most customers are in their 20s-30s (mean 28.8)
 >   - Income : shows most customers earn $40K-$60K, but there's a long tail of higher earners that could be targeted for premium models.
 >   - Fitness self ratings: The average fitness of 3.3/5 suggests customers are moderately active, with fewer at the extremes (very unfit)
@@ -176,38 +176,38 @@ Aerofit-Customer-Analysis/
 
 # Top Insights
 
-> ### 1. Product Popularity:
+### 1. Product Popularity:
 > - KP281 is the most popular product (44% of sales), followed by KP481 (33%), and KP781 (23%). This shows a healthy distribution across price points.
-> 
-> ### 2. Gender Preference:
+ 
+### 2. Gender Preference:
 > - Males dominate premium purchases: 80% of KP781 buyers are male
 > - Females: 57% of KP281 buyers are female
 > - KP481 has balanced gender distribution
-> 
-> ### 3. Income:
+ 
+### 3. Income:
 > - KP781 buyers have highest average income ($75,442)
 > - KP481 buyers have moderate income ($48,974)
 > - KP281 buyers have lowest average income ($46,418)
-> 
-> ### 4. Age Patterns:
+
+### 4. Age Patterns:
 > - KP781 buyers are slightly older (average 29 years)
 > - KP281 attracts youngest customers (average 28 years)
-> 
-> ### 5. Fitness Level:
+ 
+### 5. Fitness Level:
 > - KP781 buyers rate themselves as most fit (average 4.5/5)
 > - KP481 buyers are moderately fit (average 3.5/5)
 > - KP281 buyers are least fit (average 3.0/5)
-> 
-> ### 6. Usage Patterns:
+ 
+### 6. Usage Patterns:
 > - KP781 users plan to use treadmill most frequently (5 times per week)
 > - KP481 users plan moderate usage (4 times/week)
 > - KP281 users plan least usage (3 times/week)
-> 
-> ### 7. Marital Status Impact:
+ 
+### 7. Marital Status Impact:
 > - Partnered individuals slightly prefer KP281 and KP481
 > - Single individuals show higher preference for KP781 (58% of KP781 buyers are "single")
-> 
-> ### 8. Probability Scenarios:
+ 
+### 8. Probability Scenarios:
 > - A male customer has 34% probability of buying KP781
 > - A high-income customer (>$50K) has 58% probability of buying KP781
 > - A highly fit customer (level 4-5) has 68% probability of buying KP781
@@ -215,32 +215,32 @@ Aerofit-Customer-Analysis/
   
 # Top Strategic Recommendations
 
-> ### Targeted Marketing Campaigns:
+### Targeted Marketing Campaigns:
 > - KP781(Target males, high income, advanced features)
 >     - The data shows **82.5%** are male, they have the highest average income ($75,442), and they are "advanced users."
 > - KP481 (Market to both genders, highlight value for money)
 >     -  The gender split is nearly equal (51.7% male, 48.3% female) and they fit the middle-income
 > - KP281 (Focus mostly on females and beginners, stress ease of use)
 >     - While they are definitely "beginners" and "casual" users, the gender split is nearly perfect 50% Male and 50% Female. Marketing should target both genders equally, not mostly females.
-> 
-> ### Product Placement: 
+ 
+### Product Placement: 
 > - Place KP781 in high-end fitness stores
 > - KP481 in general sports stores &
 > - KP281 in department stores. It fits the budget-friendly demographic
-> 
-> ### Upselling Strategy:
+ 
+### Upselling Strategy:
 > - The data shoes Fitness progession KP281 (Fitness 3.0, 82 miles) \(\rightarrow \) KP481 (Fitness 2.9, 87 miles) \(\rightarrow \) KP781 (Fitness 4.6, 166 miles).
 > - Create a loyalty program to move KP281 customers to KP481, and KP481 customers to KP781 as their fitness improves.
->   
-> ### Gender-Specific Features: 
+   
+### Gender-Specific Features: 
 > - Since the current buyer base for KP781 is heavily dominated by men (82.5%), designing features or marketing that appeals to high-income, advanced female athletes is a great growth opportunity.
 > - Consider adding more features to appeal females in KP781
->   
-> ### Financing: 
+   
+### Financing: 
 > - The income range for KP781 starts at $48,556, which overlaps with the middle-income KP481 audience.
 > - Offering financing options for KP781 would help those serious fitness buy the premium model.
->   
-> ### Marital Status : 
+  
+### Marital Status : 
 > - Exactly 60% of buyers for both KP281 and KP481 are "Partnered"
 > - Create family/friend referral programs for KP281 and KP481 which are popular among partnered individuals.
 
@@ -248,10 +248,10 @@ Aerofit-Customer-Analysis/
 ---
 
 ## **How to Run This Project( Anaconda - Jupyter notebook)**
-> 1. Clone the repository
-> 2. Install dependencies: `pip install -r requirements.txt`
-> 3. Open `notebooks/Aerofit_Analysis.ipynb` in Jupyter
-> 4. Run cells sequentially to reproduce the analysis
+1. Clone the repository
+2. Install dependencies: `pip install -r requirements.txt`
+3. Open `notebooks/Aerofit_Analysis.ipynb` in Jupyter
+4. Run cells sequentially to reproduce the analysis
 
 
 ---
